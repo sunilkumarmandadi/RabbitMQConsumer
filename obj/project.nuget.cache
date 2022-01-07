@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqH9EVxRjna2wC/9ZSfVrx9lmqSnNwnECyCXHEkCP6yuXt34GskQl1TZyHBVMuNdEWgUcVBpcjdZu2h+98urZg==",
+  "success": true,
+  "projectFilePath": "C:\\SUNIL\\Practise\\RobbitMQ\\RabbitMQConsumer\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunil\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\sunil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\sunil\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

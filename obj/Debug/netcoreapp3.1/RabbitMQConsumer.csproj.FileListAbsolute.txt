@@ -1,0 +1,16 @@
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.exe
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csprojAssemblyReference.cache
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfoInputs.cache
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfo.cs
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.deps.json
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.json
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.dev.json
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CopyComplete
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+C:\SUNIL\Practise\RobbitMQ\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.genruntimeconfig.cache
